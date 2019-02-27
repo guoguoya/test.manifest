@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <manifest>
-    <remote name="local" fetch="git@github.com:guoguoya/js-redis-parser.git" />
-    <default remote="local" revision="master"/>
-    <project path="js-redis-parser" name="js-redis-parser"/>
+    <remote name="origin" fetch="git@github.com:guoguoya" />
+    <default remote="origin" revision="master"/>
+    <project path="js-redis-parser" name="js-redis-parser" revision="master" />
 </manifest>
